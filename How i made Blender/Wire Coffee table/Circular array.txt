@@ -1,0 +1,9 @@
+How i made the White wire coffe tables.
+
+origin of te wire at the center of the inner circle
+create an empty on the position of the new wire's origin
+create an array for the wire relative to the empty object at the center 
+rotete the empty set rotation on Z to 360/32, 32 is the number of the fires that create the basket
+extrude spin and rotate to tweek how the wire continues upwards
+apply modifier
+create horizontal ring and re topology the mesh
