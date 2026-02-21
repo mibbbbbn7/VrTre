@@ -7,3 +7,6 @@ rotete the empty set rotation on Z to 360/32, 32 is the number of the fires that
 extrude spin and rotate to tweek how the wire continues upwards
 apply modifier
 create horizontal ring and re topology the mesh
+
+ref
+https://www.youtube.com/watch?v=Z7HlL2Oly8s
